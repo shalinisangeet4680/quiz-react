@@ -1,4 +1,4 @@
-For the demo,[Click here](https://shalinisangeet4680.github.io/quiz-react")
+For the demo,[Click here](https://shalinisangeet4680.github.io/quiz-react)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
